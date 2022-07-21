@@ -1,0 +1,4 @@
+FROM openjdk:8
+ADD target/docker-um-service.jar docker-um-service.jar
+EXPOSE 8085
+ENTRYPOINT ["java","-jar","docker-um-service.jar"]

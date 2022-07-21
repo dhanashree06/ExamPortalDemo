@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.triarq.doctor.ValueObject&apos; to &apos;PatientMicroservice/src/main/java/com.triarq.patient&apos;&#x0D;&#x0A;- Original project: &apos;DoctorMicroservice&apos;&#x0D;&#x0A;- Destination element: &apos;PatientMicroservice/src/main/java/com.triarq.patient&apos;&#x0D;&#x0A;- Original element: &apos;DoctorMicroservice/src/main/java/com.triarq.doctor.ValueObject&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=PatientMicroservice/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.triarq.patient" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.triarq.doctor.ValueObject" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1655896886287" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+FROM openjdk:8
+ADD target/docker-um-patient.jar docker-um-patient.jar
+EXPOSE 8087
+ENTRYPOINT ["java","-jar","docker-um-patient.jar"]
